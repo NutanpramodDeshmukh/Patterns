@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\bin\Debug\Pattern.exe.config
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\bin\Debug\Pattern.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\bin\Debug\Pattern.pdb
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\obj\Debug\Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\obj\Debug\Pattern.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\4B_Array\Pattern\obj\Debug\Pattern.pdb
